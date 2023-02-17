@@ -8,6 +8,7 @@ The data has been presented using different charts and visualizations on the onl
 
 ![image](https://user-images.githubusercontent.com/80845151/219762979-fa9dec64-c598-4beb-a80a-f802b8979fbc.png)
 ![image](https://user-images.githubusercontent.com/80845151/219765481-d9fe080a-2d64-4546-bbd8-618f9e43cc6d.png)
+![image](https://user-images.githubusercontent.com/80845151/219766139-9008bd11-4dba-4973-96c3-094d2d3a927b.png)
 
 
 https://infogram.com/video_games_sales-1h7z2l80ylr5g6o?live
